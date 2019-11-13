@@ -3,7 +3,7 @@ import axios from 'axios'
 // import store from '@/store'
 import config from '@/default_config'
 
-axios.defaults.baseURL = config.serverName2
+axios.defaults.baseURL = config.serverName
 
 // store.getters['user/getUsers'] - example get getters
 
