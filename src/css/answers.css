@@ -1,0 +1,172 @@
+#search-hash {
+  width: 300px;
+}
+
+#card-question-block-answer {
+  width: 400px;
+  margin-right: 20px;
+}
+
+#card-question-block-answer-title {
+  margin-bottom: 25px;
+}
+
+#preImgQuestionBlockAnswer {
+  max-height: 250px;
+}
+
+#preImgQuestionBlockAnswer:hover {
+  cursor: pointer;
+}
+
+.answer-block {
+  margin: 20px;
+  display: flex;
+}
+
+#form-add-answer {
+  padding-bottom: 10px;
+}
+
+#inp-add-answer {
+  width: 500px;
+}
+
+#add-answer-one {
+  float: right;
+}
+
+#checkbox-is-true-answer:hover {
+  cursor: pointer;
+}
+
+#label-is-true-answer:hover {
+  cursor: pointer;
+}
+
+.list-answers {
+  margin-top: 40px;
+}
+
+#li-answers-group {
+  display: flex;
+  text-align: justify;
+  margin-top: 5px;
+}
+
+.action-answer-in-div {
+  margin-left: auto;
+  order: 2;
+}
+
+.action-answer-in-div > i {
+  margin-left: 5px;
+}
+
+#icon-ans-delete {
+  color: red;
+}
+
+#icon-ans-edit {
+  color: #0073ef;
+}
+
+#icon-ans-view-img {
+  color: #0c7229;
+}
+
+#icon-ans-delete, #icon-ans-edit, #icon-ans-view-img {
+  cursor: pointer;
+}
+
+.main-wrapper-asnwers {
+  width: 100%;
+}
+
+#inp-add-answer {
+  width: 100%;
+}
+
+.active-li-answer-false {
+  border-left-width: 3px !important;
+  border-left-color: #ce3950 !important;
+}
+
+.active-li-answer-true {
+  border-left-width: 3px !important;
+  border-left-color: green !important;
+}
+#formAddAssoc > input {
+  margin-right: 10px;
+}
+
+.assoc-form-component {
+  display: flex;
+  flex-direction: column;
+}
+
+.assoc-form-component > div > input {
+  width: 50%;
+}
+
+.assoc-bundle-content {
+  margin-bottom: 10px;
+}
+
+.question-block-assoc {
+  margin-right: 10px;
+}
+
+.assoc-bundle-content {
+  display: flex;
+}
+
+#save-assoc-btn {
+  float: right;
+  margin-top: 10px;
+}
+
+#block-load-image {
+  margin-top: 10px;
+  z-index: 0;
+}
+
+#customFile {
+  color: red;
+}
+
+/* .form-comp-assoc > input[type='file'] {
+  color:transparent;
+} */
+
+.input-load-file {
+  display: none;
+}
+
+.bundle-answer {
+  float: right;
+  margin-right: 5px;
+}
+
+.block-load-file {
+  margin-left: 5px;
+  margin-bottom: 10px;;
+}
+
+.block-load-file > #answer-load-file {
+  float: right;
+  margin-right: 5px;
+}
+
+.divv {
+  position: relative;
+  overflow: hidden;
+  font-size: 14px !important;
+}
+.input {
+  position: absolute;
+  font-size: 16px;
+  opacity: 0;
+  right: 0;
+  top: 0;
+}

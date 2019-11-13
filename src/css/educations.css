@@ -1,0 +1,36 @@
+#btnAddEducation {
+  margin: 10px;
+}
+
+#tdTableGetEducations {
+  padding-right: 20px;
+}
+
+#tdTableGetEducations > .fa-trash-alt {
+  margin-left: 10px;
+  color: #c11919;
+}
+
+#tdTableGetEducations > .fa-trash-alt:hover {
+  color: red;
+  cursor: pointer;
+}
+
+#tdTableGetEducations > .fa-edit {
+  color: #1f61d3;
+}
+
+#tdTableGetEducations > .fa-edit:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+#cust-fa-eye {
+  color: #00ad96;
+  padding-right: 10px;
+}
+
+#cust-fa-eye:hover {
+  cursor: pointer;
+  color: #03c6ac;
+}

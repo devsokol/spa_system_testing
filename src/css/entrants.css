@@ -1,0 +1,13 @@
+.header-entrants {
+  padding: 10px;
+}
+
+.placeholder-entrant-nothing {
+  margin: auto;
+  width: 50%;
+  font-family: 'Numans', sans-serif;
+}
+
+.placeholder-entrant-nothing > h1 {
+  color: #828282;
+}

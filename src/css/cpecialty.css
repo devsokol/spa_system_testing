@@ -1,0 +1,47 @@
+#selectComponent {
+  display: flex;
+  padding: 10px;
+}
+
+#selectEducation{
+  margin-right: 10px;
+}
+
+.playholder-table {
+  margin-top: 10%;
+}
+
+.tableSpecialty {
+  display: flex;
+}
+
+.tableSpecialty > i {
+  margin-left: 10px;
+}
+
+.tableSpecialty > .fa-trash-alt {
+  margin-left: 10px;
+  color: #c11919;
+}
+
+.tableSpecialty > .fa-trash-alt:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.tableSpecialty > .fa-edit {
+  color: #1f61d3;
+}
+
+.tableSpecialty > .fa-edit:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+#add_specialty {
+  margin-right: 10px;
+}
+
+.specialty_group_inp > input{
+  margin-bottom: 10px;
+}

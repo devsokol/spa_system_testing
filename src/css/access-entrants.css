@@ -1,0 +1,72 @@
+.wrapper-access-entrants {
+  height: 100%;
+  width: 100%;
+  background-image: url('https://cs4.pikabu.ru/post_img/big/2016/08/16/11/147137174019542083.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  /* background-color: #d8d8d8; */
+  position: absolute;
+  overflow: hidden;
+}
+
+.content-access-entrant {
+    width: 960px;
+    background: rgba(11, 13, 24, 0.6);
+    margin: 15% auto;
+    border-radius: 10px;
+    /* padding-bottom: 20px; */
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+}
+
+.form-entrants-access {
+  display: flex;
+  /* padding: 35px 70px 51px 70px; */
+  padding: 30px;
+}
+
+.form-destination > label {
+  color: white;
+}
+
+.form-destination {
+  width: 100%;
+  margin-left: 10px;
+}
+
+#next-btn1 {
+  margin-left: calc(50% - 65px);
+  width: 130px;
+  margin-bottom: 20px;
+}
+
+.agree-modal {
+  font-family: 'Arial', sans-serif;
+  font-size: 14px;
+  color: #076577;
+  text-align: justify;
+}
+
+.table-agree {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.table-agree > tr {
+  text-align: center;
+}
+
+.table-agree > tr > th {
+  text-align: left;
+  background: #ccc;
+  padding: 5px;
+  border: 1px solid #6d6d6d;
+}
+
+.table-agree > tr > td {
+  padding: 5px;
+  border: 1px solid #6d6d6d;
+}
+

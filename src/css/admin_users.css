@@ -1,0 +1,11 @@
+.active {
+  color: #424242 !important;
+}
+
+.actions {
+  display: flex;
+}
+
+.actions > i:hover {
+  cursor: pointer;
+}

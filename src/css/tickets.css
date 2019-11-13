@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,400italic|Playfair+Display+SC:400,700&subset=latin,cyrillic);
+
+.btn-view-questions {
+  margin-top: 15px;
+}
+
+#ticket-list > li{
+  font-size: 15px;
+  color: #0f5b70;
+  font-family: Georgia, sans-serif;
+}
+
+.card-title {
+  font-size: 30px;
+  font-family: Georgia, sans-serif;
+  height: 20px;
+  color: #5a6063;
+}
+
+.ticket-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.block-tikets {
+  padding: 20px;
+}
+
+.modal-body > input{
+  margin-bottom: 10px;
+}
+
+.card-body-cust{
+  display: flex;
+}
+
+.ticket-actions {
+  margin-left: auto;
+}
+
+.ticket-actions > i {
+  color: #5b5757;
+}
+
+.ticket-actions > i:hover {
+  cursor: pointer;
+  color: #3f3f3f
+}
